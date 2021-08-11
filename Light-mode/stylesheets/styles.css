@@ -45,7 +45,18 @@
 .navbar-brand{
     width:60%;
    
-}}
+}
+footer .row{
+    height:10%
+}
+footer image{
+    float:right;
+}
+footer .ml-5{
+    margin-left: 0 !important;
+}
+}
+
 .btn-outline-success, .btn-outline-success:active, .btn-primary:visited {
     border-color: #649d14 !important;
 }
